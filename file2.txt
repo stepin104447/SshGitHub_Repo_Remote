@@ -1,5 +1,9 @@
 
+
 simultaneous change made in local repo
+
+
+simultaneous change made in remote repo
 
 Line1 didsvldsjldj 
 Line 2 lfjdjfldjvldjfldsj 
